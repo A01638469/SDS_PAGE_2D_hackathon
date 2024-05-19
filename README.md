@@ -3,7 +3,7 @@
 ## Descripción
 La electroforesis bidimensional nos permite separar proteínas con base en su peso molecular y punto isoeléctrico. Este programa recibe como entrada (por medio de la terminal) el ID o "Entry" de proteínas de la base de datos UniProt, y da como salida una visualización de como se observaría esta electroforesis bidimensional.
 
-![hackathon](https://github.com/A01638469/SDS_PAGE_2D_hackathon/assets/88745691/15cf7c9d-466d-4f5d-9dc3-f29c93bd45d2)
+![hackathon (1)](https://github.com/A01638469/SDS_PAGE_2D_hackathon/assets/88745691/56c136fa-0be6-4eb9-a162-b1973cd440dc)
 
 ### Ejemplo de visualización
 Entrada de proteinas: A6IZ25, P68871, Q63223, y A6I7B8.
